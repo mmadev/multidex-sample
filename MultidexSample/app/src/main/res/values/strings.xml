@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultidexSample</string>
+    <string name="list_empty">No class stored in the external dex</string>
+    <string name="header">List of classes stored in the external dex</string>
+</resources>
